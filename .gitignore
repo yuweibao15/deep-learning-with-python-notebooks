@@ -1,0 +1,5 @@
+# Keep the data local
+data/*
+*.zip
+
+.DS_Store
